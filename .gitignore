@@ -4,3 +4,5 @@ venv
 instance/*
 .vscode/
 backend/instance/
+.env
+celerybeat-schedule
